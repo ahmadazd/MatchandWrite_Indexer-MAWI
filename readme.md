@@ -9,7 +9,7 @@ MAWI script provide the ability to match indices to sequences ( FASTA or FASTQ) 
 -- `Index2: will contain the index2 sequence`
 
 #### Command to run:
-` python3 maiw.py -s <path/to/spreadsheet.xlsx> -f <path/to/sequencefilesDirectory> -o <path/to/outputDirectory> -m <number of mismatch allowed> -ft <file type>`
+` python3 mawi.py -s <path/to/spreadsheet.xlsx> -f <path/to/sequencefilesDirectory> -o <path/to/outputDirectory> -m <number of mismatch allowed> -ft <file type>`
 
 ##### Parameters:
 `'-s', '--spreadsheet', 'metadata spreadsheet'`
